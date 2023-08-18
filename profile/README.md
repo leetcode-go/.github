@@ -21,7 +21,9 @@
 目前仅`top-interview-150`这个repo进行记录，后续回开辟更多repo以及更多专题，当然我们后续也会从各类网站上搜集算法原题，进行解题记录解题思路，欢迎有意愿一起加入的朋友共同参与
 
 ### Contributor
-- EvansChang[![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=)](https://twitter.com/EvansJang) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alphejangs@gmail.com)](mailto:alphejangs@gmail.com)
+- * [Shenle Lu](https://github.com/lushenle)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lushenle@gmail.com)](mailto:lushenle@gmail.com)
+- * [EvansChang](https://github.com/alphejangs)[![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=)](https://twitter.com/EvansJang) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alphejangs@gmail.com)](mailto:alphejangs@gmail.com)
+- * [Hubery-ye](https://github.com/Hubery-ye)
 
 ### Repository List
 - [top-interview-150](https://github.com/leetcode-go/top-interview-150)
